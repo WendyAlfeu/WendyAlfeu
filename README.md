@@ -1,4 +1,8 @@
-- Hi, I’m @WendyAlfeu.
-- I’m currently learning Cybersecurity on https://tryhackme.com/p/WendyA
-- I’m looking to collaborate on adhering to laws and protecting people and organizations
-- I’m enthusiatic about securit operations and enjoy manage, prevent, and investigate threats, risks, and vulnerabitilites that can possibily impact an organization and the people it serves. I place a highly value on maintaning a strong security posture to help protect sensitive information and mitigate risk.
+- ### Hi, I’m Wendy Alfeu 👋
+
+**GRC / Cybersecurity enthusiast · Law graduate**
+
+- 🔒 Building tools & writing about compliance, risk and privacy
+- 📚 Google Cybersecurity Cert • CS50 Cybersecurity (in progress)
+- 🎓 Incoming MSc, Information Security & Cyberspace Law
+- 🛠️ Tech: Python · SQL · Linux · NIST · GDPR
