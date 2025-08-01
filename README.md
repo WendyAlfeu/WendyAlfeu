@@ -1,4 +1,4 @@
-- ### Hi, I’m Wendy Alfeu 👋
+- ### Hi, I’m Wendy Alfeu 🤍🌸🦢
 
 **GRC / Cybersecurity enthusiast · Law graduate**
 
